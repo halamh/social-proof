@@ -139,7 +139,7 @@ h1 {
     }
     .square {
         width: 100%;
-        height: 35vh;
+        height: 100%;
     }
     .square .info {
         gap: 20px;
@@ -173,7 +173,8 @@ h1 {
     }
 
     #sub-container-2 {
-        padding: 2rem 3rem;
+        padding: 2rem 2rem;
+        gap: 25px;
     }
     main {
         height: 100%;
