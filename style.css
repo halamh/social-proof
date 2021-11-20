@@ -9,13 +9,13 @@ body {
     background-image: url(images/bg-pattern-top-desktop.svg);
     background-repeat: no-repeat;
     background-size: cover;
+    min-height: 100vh;
 }
 
 main {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
 }
 
 .container {
